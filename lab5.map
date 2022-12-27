@@ -1,0 +1,7 @@
+VERSION_1{
+	global:
+		_Z10print_listv;
+	local:
+		*;
+
+};
